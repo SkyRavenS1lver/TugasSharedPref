@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Berita</string>
+    <string name="formatter" formatted="true">%02d</string>
+    <string-array name="statuses">
+        <item>Pariwisata</item>
+        <item>Sport</item>
+        <item>Politics</item>
+        <item>Entertainment</item>
+        <item>Crime</item>
+    </string-array>
+    <string name="yogyakarta">Yogyakarta (often called “Jogja”) is a city on the Indonesian island of Java known for its traditional arts and cultural heritage. Its ornate 18th-century royal complex, or kraton, encompasses the still-inhabited Sultan’s Palace. Also within the kraton are numerous open-air pavilions that host classical Javanese dance shows and concerts of gamelan music, characterized by gongs, chimes and plucked string instruments.</string>
+    <string name="lawangSewu">Lawang Sewu adalah sebuah bangunan bersejarah milik PT Kereta Api Indonesia yang kini menjadi salah satu tujuan wisata populer di Semarang, Jawa Tengah. Dalam bahasa Jawa, "lawang sewu" berarti seribu pintu. Bangunan yang dulunya digunakan sebagai Kantor Pusat Perusahan Kereta Api Swasta zaman Belanda ini disebut Lawang Sewu karena memiliki banyak pintu dan jendela. Dengan luas lahan sekitar 18.232 meter persegi, di kompleks Lawang Sewu berdiri lima gedung yang dibangun secara bertahap dari tahun 1904 hingga 1918.</string>
+    <string name="borobudur">Candi Borobudur menjadi salah satu tempat wisata sejarah yang bisa dikunjungi wisatawan ketika berlibur di Jawa Tengah maupun Daerah Istimewa Yogyakarta (DIY). Dari Titik Nol Kilometer di Kota Yogyakarta, misalnya, jaraknya mencapai 41 kilometer (km) dengan durasi perjalanan kira-kira satu jam.  Sementara itu, jika dari Kabupaten Magelang, Jawa Tengah, maka jaraknya hingga 31 km dengan waktu tempuh hampir satu jam.  Kendati demikian, mungkin masih ada wisatawan yang bingung sesungguhnya Candi Borobudur berada di mana atau terletak di kabupaten mana.</string>
+    <string name="prambanan">Candi Prambanan adalah kompleks candi Hindu terbesar di Indonesia yang terletak di perbatasan Jawa Tengah dan Yogyakarta. Bangunan candi ini dipersembahkan untuk Trimurti atau tiga dewa utama Hindu, yaitu Brahma (dewa pencipta), Wisnu (dewa pemelihara), dan Siwa (dewa pemusnah). Di kompleks candi ini terdapat arca Siwa Mahadewa setinggi tiga meter, yang menunjukkan bahwa dewa Siwa lebih diutamakan. Bersamaan dengan Candi Borobudur, candi peninggalan Kerajaan Mataram Kuno ini juga dinobatkan sebagai Situs Warisan Dunia UNESCO pada 1991.</string>
+    <string name="gili">Pulau Gili Lawa di kawasan Taman Nasional (TN) Komodo, Labuan Bajo, Kabupaten Manggarai Barat, Nusa Tenggara Timur (NTT) ditutup sementara, mulai Senin (22/8/2022). Berdasarkan informasi akun Instagram resmi Balai Taman Nasional Komodo, Senin, penutupan dilakukan guna mempercepat proses pemulihan ekosistem padang sabana di Pulau Gili Lawa Darat yang terdampak oleh kebakaran pada Minggu, (21/8/2022). Baca juga: Mengenal Gili Lawa Taman Nasional Komodo "Pulau Gili Lawa Darat, Resort Gili lawa Seksi Pengelolaan Taman Nasional (SPTN) Wilayah II Balai Taman Nasional Komodo ditutup sementara hingga ada pemberitahuan selanjutnya," bunyi keterangan dari akun tersebut.</string>
+    <string name="bromo">Gunung Bromo adalah salah satu gunung api yang masih aktif di Indonesia. Gunung yang memiliki ketinggian 2.392 meter di atas permukaan laut ini merupakan destinasi andalan Jawa Timur. Gunung Bromo berdiri gagah dikelilingi kaldera atau lautan pasir seluas 10 kilometer persegi.
+Wisatawan yang berkunjung ke Gunung Bromo akan disambut oleh pemandangan yang indah. Salah satu hal yang terkenal dari Gunung Bromo adalah golden sunrise-nya, pasalnya, Gunung Bromo dinobatkan sebagai tempat yang menawarkan pemandangan matahari terbit terbaik di Pulau Jawa.
+Sesaat setelah momen matahari terbit berakhir, wisatawan akan kembali disuguhkan pemandangan yang tak kalah indanya, yaitu pemandangan negeri di atas awan.
+</string>
+    <string name="balekambang">Pantai Balekambang merupakan pantai berpasir putih dan air laut yang berwarna jernih kebiruan yang berada di laut selatan.  Banyak karang laut di pantai ini yang membentang sepanjang kurang lebih 2000 meter dengan lebar 200 meter ke arah laut. Kawasan Pantai Balekambang memiliki jembatan sepanjang 70 meter yang menghubungkan antara bibir pantai dengan Pulau Ismoyo.</string>
+    <string name="sanur">Lokasi Pantai Sanur terletak di bagian timur Kota Denpasar.  Pantai Sanur memiliki keindahan yang berbeda dibandingkan pantai-pantai di Bali. Pantai Sanur dapat dinikmati semua kalangan, selain itu kawasan wisata ini juga tidak terlalu mahal. Banyak pengiapan, restoran, maupun tempat seni yang dapat dinikmati dengan harga terjangkau.</string>
+    <string name="gajah">Gua Gajah adalah gua buatan dari masa purbakala yang berfungsi sebagai tempat ibadah. Gua ini terletak di Desa Bedulu, Kecamatan Blahbatuh, Kabupaten Gianyar, Bali; berjarak kurang lebih 27 km dari Denpasar. Penemuan Gua Gajah berawal dari laporan pejabat Hindia Belanda, LC. Heyting pada tahun 1923 yang menemukan arca Ganesha, Trilingga serta arca Hariti kepada pemerintah Hindia Belanda. </string>
+    <string name="safari">Home to thousand amazing animals representing more than 100 species, including some of rare and endangered species. Combining Balinese cultural ambience with African Savannah, Bali Safari and Marine Park features the following exhibits featuring Sumatran elephant, Sumatran tiger, white tiger, leopard, komodo dragon are just some of the fascinating creatures that can be seen at the Bali Safari and Marine Park. Fulfilling its mission of conservation, education and recreation through one of our attractive Elephant Show devoted to animals involved in conservation and education projects and so much more excitement by riding the elephant with our Elephant Back Safari around the African Savannah and get to see your favorite animal up close! and theres a night into the wild names Night Safari where you can ride with amazing wild experiences ever. In Animal Encounter make the Bali Safari and Marine Parks leading family attraction and adventure in Bali.</string>
+
+
+<!--    Sport-->
+    <string name="kanjuruhan">Kerusuhan di Stadion Kanjuruhan Malang meletus usai pertandingan Arema FC yang kalah 2-3 melawan Persebaya. Kapolda Jatim Irjen Nico Afinta menjelaskan kronologi tragedi Stadion Kanjuruhan Malang yang terjadi pada Sabtu (01/10).
+"Terkait dengan proses pertandingan tidak ada permasalahan, semuanya selesai. Permasalahan terjadi pada saat setelah selesai, terjadi kekecewaan dari para penonton yang melihat tim kesayangannya tidak pernah kalah selama 23 tahun bertanding di kandang sendiri," kata Nico dalam konferensi pers di Polres Malang, seperti dilansir detikJatim, Minggu (02/10).
+</string>
+
+    <string name="motogp">Aleix Espargaro masih punya peluang untuk juara MotoGP 2022. Aleix masih berada di tiga besar klasemen, walau katanya tidak mudah tapi ayo dicoba!
+Aleix Espargaro sementara berada di peringkat ketiga Klasemen MotoGP 2022. Rider Aprilia itu mengoleksi 199 poin, di bawahnya Francesco Bagnaia (217 poin) dan Fabio Quartararo (219 poin).
+</string>
+    <string name="bulutangkis">Tim bulu tangkis junior Indonesia akan berlaga di ajang Kejuaraan Dunia Junior 2022 telah bertolak ke Spanyol pada Jumat (14/10/2022) dini hari. Manajer tim Eddy Prayitno mengatakan tim Indonesia semua dalam keadaan fit dan siap meraih hasil maksimal. Kejuaraan Dunia Junior 2022 sendiri akan digelar pada 17-22 Oktober 2022 (Piala Suhandinata/beregu) dan 24-30 Oktober 2022 (perorangan) di kota Santander, Spanyol. Tentu saja penerbangan ke Spanyol akan memakan waktu yang panjang.</string>
+    <string name="TGPIF">Tim Gabungan Independen Pencari Fakta (TGIPF) sudah melaporkan hasil investigasi selama dua pekan terkait tragedi Kanjuruhan kepada Presiden Joko Widodo, Jumat (14/10/2022). Dalam konferensi pers, Ketua TFIPF Mahfud MD meminta pengurus PSSI bertanggung jawab atas tragedi Stadion Kanjuruhan.</string>
+    <string name="rank">Timnas Wanita Indonesia yang semula berada di posisi 101 dunia kini melejit ke peringkat 97 dunia. Dari data ranking FIFA per 13 Oktober 2022, skuad Garuda Pertiwi melejit ke peringkat 97 dengan mengumpulkan 1213,69 poin. Kemenangan 2-1 atas Singapura menambah 4,67 poin. Pelatih Timnas Indonesia wanita Rudy Eka Priyambada mengapresiasi dukungan publik bola Tanah Air atas keberhasilan Garuda Pertiwi. Naik peringkat ini tentu harus kita disyukuri, namun kita sebagai tim harus menjaga fokus untuk mencapai target peringkat yang lebih tinggi lagi ke depannya, kata Rudy Eka Priyambada di laman resmi PSSI.</string>
+
+
+<!--Politik-->
+    <string name="perindo">Mars Partai Persatuan Indonesia (Perindo) menjadi fenomena tersendiri di masyarakat. Lirik dengan iringan musik yang catchy penuh semangat membuat Mars Perindo sangat popular di kalangan masyarakat. Selain itu Mars Perindo mudah diingat. Tak heran banyak masyarakat dari berbagai golongan hafal lagu ini.
+Ketua Umum Partai Persatuan Indonesia (Perindo) Hary Tanoesoedijo (HT) membagikan video versi terbaru mars Partai Perindo. “Versi terbaru mars Partai Perindo. Ter-update, Senin 29 Agustus 2022,” ujar HT pada laman Instagram miliknya.</string>
+    <string name="nasdem">Wakil Ketua Umum Partai NasDem, Ahmad Ali berjanji partainya akan tetap bersama Presiden Joko Widodo (Jokowi) hingga akhir masa pemerintahan 2024 kendati sejumlah menterinya dicopot dari kabinet.
+Ali mengatakan NasDem telah menyatakan komitmen sebagai partai koalisi saat mendukung Jokowi di Pilpres 2024. Menurut dia, keputusan tersebut belum berubah hingga hari ini.
+</string>
+    <string name="partai">Komisi Pemilihan Umum (KPU) menyatakan 18 partai politik (parpol) memenuhi syarat verifikasi administrasi Pemilu 2024. Keputusan itu tertuang dalam surat pengumuman nomor 9/PL.01.1-Pu/05/2022. Salinan surat itu telah dipublikasi di situs resmi KPU.
+Berdasarkan surat tersebut, partai-parti yang lolos adalah Partai Demokrasi Indonesia Perjuangan (PDIP), Partai Keadilan Sejahtera (PKS), Partai Perindo, Partai NasDem, Partai Bulan Bintang (PBB), dan Partai Kebangkitan Nusantara (PKN).
+</string>
+    <string name="sepedah">(Jokowi) hari ini melakukan kunjungan kerja ke Kalimantan Utara (Kaltara). Di sela kegiatan penyerahan sertifikat tanah, Presiden Jokowi juga membagi-bagikan sepeda ke warga yang bisa menjawab pertanyaannya.
+Dalam keterangan yang diterima, Selasa (21/12/2021), penyerahan sertifikat tanah digelar di Gedung Tenis Tertutup Telaga Keramat, Tarakan. Di sana, Jokowi memberikan penjelasan mengenai manfaat sertifikat tanah yang dibagikan.
+Baru setelah itu Jokowi memberikan sejumlah pertanyaan kepada warga yang hadir. Warga yang bisa menjawab dengan benar diberi sepeda oleh Presiden Jokowi.
+</string>
+    <string name="premanisme">Sekretaris Jendral PDI Perjuangan Hasto Kristiyanto mengklaim partainya selama ini membangun tertib hukum dan tak mengenal istilah premanisme.
+\"Jadi itulah budaya hukum yang dibangun di PDI Perjuangan. Kita tidak mengenal premanisme di PDI Perjuangan, semua tertib hukum,\" kata Hasto dalam diskusi \'Reformasi Sistem Hukum Nasional\' yang digelar PDI Perjuangan, Jakarta, Kamis (13/10).</string>
+
+
+<!--Entertainment-->
+    <string name="lesti">Dalam melakukan mediasi, polisi pun melibatkan beberapa pihak. Salah satunya dari Dinas Pemberdayaan, Perlindungan Anak dan Pengendalian Penduduk (DPPAPP).
+
+"Perkembangan restorative justice melibatkan Dinas PPAPP. Beliau (Kepala Dinas PPAPP Tuty Kusumawati) melakukan pendampingain terhadap korban. Kemudian melakukan assessment. Yang kami dapatkan, tidak ada tekanan, bahwa korban mencabut laporannya tanpa tekanan," kata Kapolres Metro Jakarta Selatan, Kombes Pol Ade Ery saat menggelar konferensi pers di kantornya, Jumat (14/10/2022).</string>
+    <string name="ikatan">Sinetron Ikatan Cinta episode Jumat, 14 Oktober 2022 mungkin akan menceritakan mengenai Aldebaran yang mendapat petunjuk dari Felis mengenai sosok yang menculik Andin.
+
+Kata Felis, sosok yang menculik istri Aldebaran itu memiliki tato bintang di lengannya. Sosok tersebut diduga memiliki keterikatan dengan tangan kanan Ricky, yaitu Agus Rimba.</string>
+
+    <string name="jamrud">"Maksud kami memilih lagu 'Tentang Dirimu' adalah isi dari lirik lagu tersebut lebih banyak berhubungan dengan orang banyak, karena hubungan orangtua dan anak pasti banyak dialami oleh semua orang kebanyakan," ujar Andi, selaku Head of Label SRN Entertainment
+"Tujuannya agar semua pendengar musik Indonesia bisa merasakan dan mengetahui kalau lagu-lagu Jamrud terbaru dari album Perspektif ini mempunyai banyak berhubungan dengan masalah dan hal-hal yang dirasakan setiap hari oleh masyarakat," kata Andi melanjutkan.</string>
+    <string name="ded">and metal Deadsquad berhasil membawa pulang dua trofi penghargaan AMI Awards 2022. Kategori yang dimenangkan adalah album metal terbaik dan kolaborasi metal terbaik.
+Album Deadsquad yang dimenangkan bertajuk Catharsis. Album ini dirilis pada Februari 2022.</string>
+    <string name="alesha">Sinetron Cinta Alesha tayang mulai hari ini, Senin, 12 September 2022 pukul 18.00 WIB di TV swasta nasional. Cinta Alesha mengusung genre melodrama. Berikut sinopsis Cinta Alesha yang dirangkum oleh Showbiz Liputan6.com dari berbagai sumber.
+Cinta Alesha memasang artis cilik Makayla Rose sebagai tokoh sentral. Bocah kelahiran Denpasar, 9 Desember 2012 ini pernah berperan sebagai Milea kecil dalam film Milea: Suara dari Dilan. Kini, bocah 9 tahun ini memerankan karakter Alesha yang hidupnya penuh kesedihan.</string>
+
+<!--Kriminal-->
+    <string name="kanada">Seorang Warga Negara Asing (WNA) asal Kanada, berinisial LD (58), ditemukan tewas tenggelam di kolam renang di sebuah villa di kawasan Seminyak, Kuta, Badung, Bali pada Sabtu (24/9/2022). "Korban meninggal dunia diduga bunuh diri karena korban selama 15 tahun menderita sakit Parkinson," kata Kepala Seksi Hubungan Masyarakat (Kasi Humas) Polresta Denpasar, Iptu I Ketut Sukadi, dalam keterangan tertulis pada Sabtu.
+</string>
+
+    <string name="tenggelam">Seorang perempuan Warga Negara Asing (WNA) asal Jerman, berinisial GS (21), ditemukan tewas mengapung di tengah laut sekitar 300 meter dari pesisir Pantai Seminyak, Badung, Bali. Kepala Seksi Hubungan Masyarakat (Kasi Humas) Kepolisian Resor Kota (Polresta) Denpasar, Iptu I Ketut Sukadi, mengatakan, korban tewas akibat terseret arus saat berenang di Pantai Seminyak pada Rabu (28/9/2022).
+</string>
+    <string name="bom">Seorang warga negara (WN) asal Selandia Baru berinisial NK (75), ditemukan tewas di kamar mandi sebuah vila di Jalan Umalas, Kelurahan Kerobokan Kelod, Kecamatan Kuta Utara, Kabupaten Badung, Bali, Rabu (12/10/2022). Jenazah korban pertama kali ditemukan sang istri yang merupakan WN Filipina berinisial NZR (68). Saat ditemukan, korban dalam posisi duduk di kloset.
+</string>
+<string name="peradilan">Seorang warga negara (WN) Denmark bernama Lars Christensen mengajukan gugatan praperadilan terhadap Polres Buleleng karena menghentikan penyidikan kasus dugaan penggelapan. Gugatan praperadilan itu diajukan ke Pengadilan Negeri (PN) Singaraja dengan nomor perkara 1/Pid.Pra/2022/PN Sgr, tertanggal 27 September 2022.</string>
+<string name="tni">Warganet sempat dibuat heboh dengan video oknum anggota TNI yang baku hantam dengan sekuriti Shopee di Gianyar, Bali. Kepala Penerangan Kodam (Kapendam) IX/Udayana Kolonel Kav Antonius Totok Yuniarto P mengatakan, peristiwa itu terjadi pada 5 Oktober 2022.
+Oknum TNI yang melakukan pemukulan adalah Serka MS. Totok menyebut pemukulan itu karena kesalahpahaman soal barang pesanan. MS, kata Totok, saat itu hendak mengajukan komplain, namun ternyata tidak tahu prosedurnya.
+</string>
+</resources>

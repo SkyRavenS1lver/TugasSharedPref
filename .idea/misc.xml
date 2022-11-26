@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProject/HasilCloning/New/Jawaban_UTS/app/src/main/res/drawable-v24/bg_et.xml" value="0.1525" />
+        <entry key="..\:/AndroidProject/HasilCloning/New/Jawaban_UTS/app/src/main/res/drawable/bg_rv.xml" value="0.1525" />
+        <entry key="..\:/AndroidProject/HasilCloning/New/Jawaban_UTS/app/src/main/res/drawable/bgdesc.xml" value="0.1525" />
+        <entry key="..\:/AndroidProject/HasilCloning/New/Jawaban_UTS/app/src/main/res/drawable/bghp.xml" value="0.1525" />
+        <entry key="..\:/AndroidProject/HasilCloning/New/Jawaban_UTS/app/src/main/res/drawable/bglain.xml" value="0.1525" />
+        <entry key="..\:/AndroidProject/HasilCloning/New/Jawaban_UTS/app/src/main/res/drawable/bgrv2.xml" value="0.1525" />
+        <entry key="..\:/AndroidProject/HasilCloning/New/Jawaban_UTS/app/src/main/res/drawable/bgrv3.xml" value="0.1525" />
+        <entry key="..\:/AndroidProject/HasilCloning/New/Jawaban_UTS/app/src/main/res/drawable/bgrv4.xml" value="0.1525" />
+        <entry key="..\:/AndroidProject/HasilCloning/New/Jawaban_UTS/app/src/main/res/drawable/bgrv5.xml" value="0.1525" />
+        <entry key="..\:/AndroidProject/HasilCloning/New/Jawaban_UTS/app/src/main/res/layout/activity_cari_berita.xml" value="0.25" />
+        <entry key="..\:/AndroidProject/HasilCloning/New/Jawaban_UTS/app/src/main/res/layout/activity_detail_berita.xml" value="0.18802083333333333" />
+        <entry key="..\:/AndroidProject/HasilCloning/New/Jawaban_UTS/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/AndroidProject/HasilCloning/New/Jawaban_UTS/app/src/main/res/layout/activity_tampil_berita.xml" value="0.25" />
+        <entry key="..\:/AndroidProject/HasilCloning/New/Jawaban_UTS/app/src/main/res/layout/dropitem.xml" value="0.18802083333333333" />
+        <entry key="..\:/AndroidProject/HasilCloning/New/Jawaban_UTS/app/src/main/res/layout/item.xml" value="0.18802083333333333" />
+        <entry key="..\:/AndroidProject/HasilCloning/New/Jawaban_UTS/app/src/main/res/layout/itemrvberita.xml" value="0.18802083333333333" />
+        <entry key="..\:/AndroidProject/HasilCloning/New/Jawaban_UTS/app/src/main/res/menu/menu.xml" value="0.18802083333333333" />
+        <entry key="..\:/AndroidProject/Jawaban_UTS_Revandra/app/src/main/res/drawable-v24/bg_et.xml" value="0.2205" />
+        <entry key="..\:/AndroidProject/Jawaban_UTS_Revandra/app/src/main/res/drawable-v24/bg_popup.xml" value="0.2205" />
+        <entry key="..\:/AndroidProject/Jawaban_UTS_Revandra/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2205" />
+        <entry key="..\:/AndroidProject/Jawaban_UTS_Revandra/app/src/main/res/layout/activity_cari_berita.xml" value="0.25" />
+        <entry key="..\:/AndroidProject/Jawaban_UTS_Revandra/app/src/main/res/layout/activity_detail_berita.xml" value="0.14" />
+        <entry key="..\:/AndroidProject/Jawaban_UTS_Revandra/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/Jawaban_UTS_Revandra/app/src/main/res/layout/activity_tampil_berita.xml" value="0.18802083333333333" />
+        <entry key="..\:/AndroidProject/Jawaban_UTS_Revandra/app/src/main/res/layout/dropitem.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/Jawaban_UTS_Revandra/app/src/main/res/layout/item.xml" value="0.33" />
+        <entry key="..\:/AndroidProject/Jawaban_UTS_Revandra/app/src/main/res/layout/itemrvberita.xml" value="0.358695652173913" />
+        <entry key="..\:/Compressed/Jawaban_UTS-master/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
